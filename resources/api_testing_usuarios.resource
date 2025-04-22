@@ -52,6 +52,5 @@ Vou repetir o cadastro do usuário
 
 Verificar se a API não permitiu o cadastro repetido
     Dictionary Should Contain Item    ${RESPOSTA}    message    Este email já está sendo usado
-    #teste
 
     
